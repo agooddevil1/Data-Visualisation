@@ -4,7 +4,9 @@
 1. For the Visualisation I have used **Tableau Public**.
 
 ## Link for Visualisation
-* [London Bike Ride](https://public.tableau.com/app/profile/shekh.zaib/viz/LondonBikesRides_17041170060380/Dashboard1?publish=yes)
+ [**London Bike Ride** *(click here to Data Visaulisation)*](https://public.tableau.com/app/profile/shekh.zaib/viz/LondonBikesRides_17041170060380/Dashboard1?publish=yes)
+ 
+ ![Dashboard](https://github.com/agooddevil1/Data-Visualisation/blob/main/Dashboard.png)
 
 ## Language and Tools
 
